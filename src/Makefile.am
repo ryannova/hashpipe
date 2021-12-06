@@ -1,4 +1,4 @@
-AM_CFLAGS = -ggdb -fPIC -O3 -Wall -Werror
+AM_CFLAGS = -ggdb -fPIC -O3 -Wall #-Werror
 ACLOCAL_AMFLAGS = -I m4
 
 bin_PROGRAMS     =
